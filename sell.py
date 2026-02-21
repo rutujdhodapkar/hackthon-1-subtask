@@ -1,4 +1,4 @@
-  import streamlit as st
+import streamlit as st
 
 # ------------------ PAGE CONFIG ------------------
 st.set_page_config(
@@ -114,3 +114,4 @@ if st.button("Calculate"):
 
 st.divider()
 st.caption("© AGRI-Intellect")
+
